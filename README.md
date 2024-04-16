@@ -1,5 +1,5 @@
 ### Employee Left Prediction
-For safe and secure lending experience, it's important to analyze the past data. In this project, a deep learning model is built to predict the chance of employee churn or not using the historical data. This dataset is highly imbalanced and includes a lot of features that make this problem more challenging.
+For safe and secure lending experience, it's important to analyze the past data. In this project, a machine learning model is built to predict the chance of employee churn or not using the historical data. This dataset is highly imbalanced and includes a lot of features that make this problem more challenging.
 
 
 ### Objective:
